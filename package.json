@@ -3,7 +3,7 @@
   "displayName": "Jump to counterpart file",
   "description": "Jump between .js/.css files with a keybinding, or define your own counterpart pairs (e.g. .tsx => .css)",
   "version": "0.0.1",
-  "publisher": "Aria Minaei aria.minaei@gmail.com",
+  "publisher": "ariaminaei",
   "engines": {
     "vscode": "^1.19.0"
   },
