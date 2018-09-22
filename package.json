@@ -48,5 +48,6 @@
     "vscode": "^1.1.21",
     "@types/node": "^10.10.3",
     "@types/mocha": "^5.2.5"
-  }
+  },
+  "license": "MIT"
 }
