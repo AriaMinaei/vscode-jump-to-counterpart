@@ -10,12 +10,12 @@ Look for `Jump to counterpart` in the extensions directory, or run `ext install 
 
 ### Configure your counterparts
 
-Add the following configuration to your user/workspace settings:
+Add the following configuration to your user/workspace settings and cusmotize it to your needs:
 
 ```json
 {
   "jumpToCounterpart.pairs": {
-    ".js": ".css", // define your pairs here. You can also define multiple pairs
+    ".js": ".css",
     ".tsx": ".module.css"
   }
 ```
