@@ -7,6 +7,9 @@
   "engines": {
     "vscode": "^1.19.0"
   },
+  "repository": {
+    "url": "https://github.com/AriaMinaei/vscode-jump-to-counterpart"
+  },
   "categories": [
     "Other"
   ],
